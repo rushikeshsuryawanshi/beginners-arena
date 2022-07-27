@@ -1,6 +1,6 @@
 # Projects List
 
-All the projects that our community adds can be found here.
+All the projects that our community has added can be found here.
 
 ## Community projects
 
