@@ -2,6 +2,11 @@
 
 Welcome to the **Beginners Arena** repository! Built by the amazing **PUGroups** community among other communities.
 
+> **Note**
+> 
+> This repository is not included in the Hacktoberfest event.\
+> It is used to practice when making your first steps into open-source.
+
 ## What is this repository about?
 
 This repository is for those who are getting started into the open-source world.\
