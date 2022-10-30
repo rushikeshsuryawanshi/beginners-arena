@@ -12,3 +12,4 @@ All the projects that our community has added can be found here.
 - [Connect4 Console Game](https://github.com/NONAME1103/Connect4) - Made by [Franco Aparicio](https://github.com/NONAME1103)
 - [PanqKart: Minetest Racing!](https://github.com/panqkart/panqkart) - Made by [David Leal](https://github.com/Panquesito7)
 - [SocialBook: An Instagram clone!](https://github.com/Sadeedpv/socialbook_frontend) - Made by [Sadeed pv](https://github.com/Sadeedpv)
+- [RSVP App](https://github.com/tinniaru3005/RSVP-App) - Made by [Arunima Chaudhuri](https://github.com/tinniaru3005)
