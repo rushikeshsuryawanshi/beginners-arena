@@ -15,3 +15,4 @@ All the projects that our community has added can be found here.
 - [RSVP App](https://github.com/tinniaru3005/RSVP-App) - Made by [Arunima Chaudhuri](https://github.com/tinniaru3005)
 - [Basic Portfolio](https://github.com/tinniaru3005/Basic-Portfolio) - Made by [Arunima Chaudhuri](https://github.com/tinniaru3005)
 - [Doggo Select](https://github.com/tinniaru3005/DoggoSelect) - Made by [Arunima Chaudhuri](https://github.com/tinniaru3005)
+- [Emoji Selector](https://github.com/tinniaru3005/emoji-selector) - Made by [Arunima Chaudhuri](https://github.com/tinniaru3005)
