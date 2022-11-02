@@ -17,3 +17,4 @@ All the projects that our community has added can be found here.
 - [Doggo Select](https://github.com/tinniaru3005/DoggoSelect) - Made by [Arunima Chaudhuri](https://github.com/tinniaru3005)
 - [Emoji Selector](https://github.com/tinniaru3005/emoji-selector) - Made by [Arunima Chaudhuri](https://github.com/tinniaru3005)
 - [Interactive Form](https://github.com/tinniaru3005/Interactive-form) - Made by [Arunima Chaudhuri](https://github.com/tinniaru3005)
+- [Public API Requests](https://github.com/tinniaru3005/Public-API-Requests) - Made by [Arunima Chaudhuri](https://github.com/tinniaru3005)
