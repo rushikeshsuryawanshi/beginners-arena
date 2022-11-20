@@ -26,3 +26,4 @@ All the projects that our community has added can be found here.
 - [Sudoku Solver](https://github.com/tinniaru3005/SudokuSolver) - Made by [Arunima Chaudhuri](https://github.com/tinniaru3005)
 - [Delivery form](https://github.com/tinniaru3005/Tacos-By-Roscoe-Delivery-Form) - Made by [Arunima Chaudhuri](https://github.com/tinniaru3005)
 - [To-do list](https://github.com/tinniaru3005/To-do-list) - Made by [Arunima Chaudhuri](https://github.com/tinniaru3005)
+- [PDF Reader](https://github.com/rushikeshsuryawanshi/Pdf-Reader) - Made by [Rushikesh Suryawanshi](https://github.com/rushikeshsuryawanshi)
