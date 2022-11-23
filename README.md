@@ -1,7 +1,8 @@
 # Beginners Arena
 
 Welcome to the **Beginners Arena** repository! Built by the amazing **PUGroups** community among other communities.\
-Wanna get involved and contribute further? Join our GitHub Organization by raising an issue [here](https://github.com/PUGroups/Support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization). 
+Wanna get involved and contribute further? Join our GitHub Organization by raising an issue [here](https://github.com/PUGroups/Support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization).
+
 > **Note**
 > 
 > This repository is not included in the Hacktoberfest event.\
